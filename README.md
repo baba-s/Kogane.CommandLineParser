@@ -1,4 +1,4 @@
-# Uni Command Line Parser
+﻿# Uni Command Line Parser
 
 コマンドライン引数を解析して指定されたクラスのインスタンスに変換するパッケージ
 
@@ -16,8 +16,8 @@ Unity.exe ^
 ```
 
 ```cs
+using Kogane;
 using System;
-using UniCommandLineParser;
 using UnityEngine;
 
 public static class Example

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UniCommandLineParser.Internal
+namespace Kogane.Internal
 {
 	/// <summary>
 	/// PropertyType 型に関する関数を管理するクラス

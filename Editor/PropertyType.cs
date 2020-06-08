@@ -1,4 +1,4 @@
-﻿namespace UniCommandLineParser.Internal
+﻿namespace Kogane.Internal
 {
 	/// <summary>
 	/// プロパティの型の種類

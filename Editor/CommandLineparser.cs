@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using UniCommandLineParser.Internal;
+using Kogane.Internal;
 
-namespace UniCommandLineParser
+namespace Kogane
 {
 	/// <summary>
 	/// コマンドライン引数を解析して指定されたクラスのインスタンスに変換するクラス

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UniCommandLineParser
+namespace Kogane
 {
 	/// <summary>
 	/// コマンドライン引数からオプションを受け取る時の名前を管理する属性

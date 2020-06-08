@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace UniCommandLineParser.Internal
+namespace Kogane.Internal
 {
 	/// <summary>
 	/// オプションを受け取るプロパティの情報を管理するクラス
