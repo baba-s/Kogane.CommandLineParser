@@ -1,4 +1,4 @@
-﻿# Uni Command Line Parser
+﻿# Kogane Command Line Parser
 
 コマンドライン引数を解析して指定されたクラスのインスタンスに変換するパッケージ
 
